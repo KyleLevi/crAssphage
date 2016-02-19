@@ -1,50 +1,51 @@
- 46 854
+ 47 854
 0          tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-1          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
-4          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
-6          tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+1          ---------- ---------- ---------- ------atta ttaatagtgc 
+41         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
 7          tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-16         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-30         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-32         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-38         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-36         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-35         tataattgtg atggtaaaga tagatgttgt caaytaatta ttaatagtgc 
-31         -ataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-33         -ataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-34         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-39         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-37         tataattgtg atggtaaaga tagatgttgt caaytaatta ttaatagtgc 
-29         tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
+8          tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
 17         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-18         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-_R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
-15         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-14         tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
-11         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-41         tataattgtg atggtaaaga tagatgttgt caactaatta ttaatagtgc 
+31         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+33         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+39         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+37         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+36         tataattgtg atggtaaaga tagatgttgt caaytaatta ttaatagtgc 
+32         -ataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+34         -ataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+35         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
 40         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-45         tataattgtg atggtgaaga tagatgttgt caacttatta ttaatagtgc 
-42         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-13         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-20         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+38         tataattgtg atggtaaaga tagatgttgt caaytaatta ttaatagtgc 
+30         tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
+18         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
 19         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
-43         tataattgtg atggtaaaga tagatgttgt caactaatta ttaatagtgc 
-12         tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
+_R_45      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
+16         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+15         tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
+12         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+42         tataattgtg atggtaaaga tagatgttgt caactaatta ttaatagtgc 
+43         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+46         tataattgtg atggtgaaga tagatgttgt caacttatta ttaatagtgc 
+14         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+21         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+20         tataattgtg atggtaaaga tagatgttgt caattaatta ttaatagtgc 
+44         tataattgtg atggtaaaga tagatgttgt caactaatta ttaatagtgc 
+13         tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
 2          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
-3          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
 5          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
+3          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
+4          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
+6          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
+11         tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
 10         tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
 9          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
-8          tatgattgta atggagaaga tagatgtgca caattaatta ttaatagtgc 
-25         tatacttgtg atggcaatga tatatgttgt caactta-cg ttaatagtgc 
-27         tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
-28         tataattgtg atggcaatga tatatgttgt caacttatta ttaatagtgc 
-23         tataattgtg atgataaaga tagatgttgt taacttatta ttaatattgc 
-26         tataattgtg atggcgatga tatatgttgt caacttatta ttattagtgc 
-22         tataattgtg atgatataga tagatgttgt taacttatta ttaatattgc 
-21         tataattgtg at-gtaaaga tagatgttgt caacttatta ttaatagtgc 
+26         tatacttgtg atggcaatga tatatgttgt caactta-cg ttaatagtgc 
+28         tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc 
+29         tataattgtg atggcaatga tatatgttgt caacttatta ttaatagtgc 
 24         tataattgtg atgataaaga tagatgttgt taacttatta ttaatattgc 
+27         tataattgtg atggcgatga tatatgttgt caacttatta ttattagtgc 
+23         tataattgtg atgatataga tagatgttgt taacttatta ttaatattgc 
+22         tataattgtg at-gtaaaga tagatgttgt caacttatta ttaatagtgc 
+25         tataattgtg atgataaaga tagatgttgt taacttatta ttaatattgc 
 
            tgaaagaatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
            tgaaagaatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
@@ -70,14 +71,15 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            tgaaagaatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
            tgaaagaatt ttggaaagaa gttaaatcta ttgaagaatt aggagaaagt 
            tcaaagaatt ttggaaagaa gttgaatcta ttgaagaatt tggagaaagt 
-           tgaaagaatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
-           tgaacgtatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
            tgaacgaatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
+           tgaacgtatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
            tgaaagaatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
            tgaacgcatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
            tgaaagaatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
            tcaacgaatt ttggaaagaa gttgaatcta ttgaagaact tggagaaact 
            tcagaggatt ttggaaagaa gttaaatcta ttgaagaatt aggagaaagt 
+           tgaaagaatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
+           tgaaagaatt ttggaaagaa gttgaatcta ttgaagaatt aggagaaagt 
            tcaacgtatt ttggaaagaa gttaattcta ttgaagaact tggtgaaact 
            tcaacgtatt ttggaaagaa gttaattcta ttgaagaact tggtgaaact 
            tcaacgtatt ttggaaagaa gttaattcta ttgaagaact tggtgaaact 
@@ -94,8 +96,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            tcaaagaatt caatcatact atcagatcta ttgaagaatt aggagaaagt 
 
            gaacgtggaa acaaaggatt tggagaagga acaggaggag cagctaaagc 
-           gaacgtggaa acaaaggatt tggagaagga acaggaggag cagctaaagc 
-           gaacgtggaa acaaaggatt tggagaagga acaggaggag cagctaaagc 
+           gaacgtggaa acaaaggatt tggagaagga accggtggag cagctaaagc 
+           gaacgtggaa acaaaggatt tggagaagga accggtggag cagctaaagc 
            gaacgtggaa acaaaggatt tggagaagga acaggaggag cagctaaagc 
            gaacgtggaa acaaaggatt tggagaagga acaggaggag cagctaaagc 
            gaacgtggaa acaaaggatt tggagaagga acaggaggag cagctaaagc 
@@ -120,10 +122,11 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            gaacgtggaa acaaaggatt tggagaagga accggtggag cagctaaagc 
            gaacgtggaa acaaaggatt tggagaagga accggtggag gagctaaagc 
            gaacgtggaa acaaaggatt tggagaagga accggtggag cagctaaagc 
-           gaacgtggaa acaaaggatt tggagaagga accggtggag cagctaaagc 
            gaacgtggaa acaaaggatt tggagaagga acaggagggg cggctaaagc 
            gaacgtggaa acaaaggatt tggagaagga accggtggag cagctaaagc 
            gaacgtggaa acaaaggatt tggagaagga acaggcggag cagctaaagc 
+           gaacgtggaa acaaaggatt tggagaagga acaggaggag cagctaaagc 
+           gaacgtggaa acaaaggatt tggagaagga acaggaggag cagctaaagc 
            gaacgtggaa acaaaggatt tggagaagga acaggaggag cagctaaagc 
            gaacgtggaa acaaaggatt tggaaaagga acaggcggag ctgctaaatc 
            gaacgtggaa acaaaggatt tggaaaagga acaggcggag ctgctaaatc 
@@ -166,11 +169,12 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            ttaaagttgg tgctcgttat attcataata aaacgtctaa tgaatatata 
            ttaaagttgg tgctcgttat attcataata aaacgtctaa tgaatatata 
            ttaaaattgg tgctcgttat attcataata aaacatctaa tgaatatata 
-           ttaaagttgg tgctcgttat attcataata aaacgtctaa tgaatatata 
            ttaaagttgg tgctcgttat attcataata aaacgtctaa tgaatatgtt 
            ttaaagttgg tgctcgttat attcataata aaacgtctaa tgaatatata 
            ttaaagttgg tgctcgttat attcataata aaacgtctaa tgaatatgtt 
            ttaaagttgg tgctcgttat attcataata aaacatctaa tgaatatata 
+           ttaaagttgg tgctcgttat attcataata aaacgtctaa tgaatatata 
+           ttaaagttgg tgctcgttat attcataata aaacgtctaa tgaatatata 
            ttaaagttgg tgctcgttat attcataata aaacgtctaa tgaatatata 
            ttaagattgg ttctgtttat attcataata aaacatctaa tgaatatata 
            ttaagattgg ttctgtttat attcataata aaacatctaa tgaatatata 
@@ -213,10 +217,11 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            attattagta ttactaaaat gaaacatcca gatacaggtg aatggattcc 
            attattagta ttactaaaat gaaacatcca gatacaggtg aatggattcc 
            attattagta ttactaaaat gaaacatcca gatacaggtg aatggattcc 
-           attattagta ttactaaaat gaaacatcca gatacaggtg aatggattcc 
            attgataata ttactaaaat gaaacatcca gatacgggta aatggatacc 
            attattagta ttactaaaat gaaacatcca gatacaggtg aatggattcc 
            attgataata ttactaaaat gaaacatcca gatacaggtg aatggattcc 
+           attattagta ttactaaaat gaaacatcca gatacaggtg aatggattcc 
+           attattagta ttactaaaat gaaacatcca gatacaggtg aatggattcc 
            attattagta ttactaaaat gaaacatcca gatacaggtg aatggattcc 
            attattagta ttactaaaat gaaacatcca gatacaggtg aatggattcc 
            attgttgata ttactaaaat gaaacatcca gatacaggta aatggattcc 
@@ -235,8 +240,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            attattataa ttactaaaat gcaacatcca gatacagttg aatggattcc 
 
            tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
-           tgctgttatc catagatatg gaaatcctga ccatttatgg tgtagaagtg 
-           tgctgttatc catagatatg gaaatcctga ccatttatgg tgtagaagtg 
+           tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
+           tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
            tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
            tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
            tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
@@ -260,12 +265,13 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
            tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
            tgctgttatt tataaactta atgggcctga acctttatgg tgtagaagtg 
-           tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
            tgctgttatt cataaaacta gcgaatctga tattttatgg tgtagaagtg 
            tgctgttatt cataaaacta gcgaatctga tattttatgg tgtagaagtg 
            tgctgttatt cataaaacta gcgaatctga tattttatgg tgtagaagtg 
            tgctgttatt tataaagttg atggacttga acctttatgg tgtagaagtg 
            tgctgttatt tataaagttg atggacttga atctttatgg tgtagaagtg 
+           tgctgttatc catagatatg gaaatcctga ccatttatgg tgtagaagtg 
+           tgctgttatc catagatatg gaaatcctga ccatttatgg tgtagaagtg 
            tgctattata tatcatagat atggacctga ccatttatgg tgtagaagtg 
            tgctattata tatcatagat atggacctga ccatttatgg tgtagaagtg 
            tgctattata tatcatagat atggacctga ccatttatgg tgtagaagtg 
@@ -282,8 +288,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            tgctgttatt tataaaattg atggacttga acctatatgg tgtagaagta 
 
            ttgaaagttt taaaagtcat tttagtgatg ctaaaattga aggtaatgaa 
-           ttgaaagttt taaaactcat tttagtgatg ctaaagttga aggagatgaa 
-           ttgaaagttt taaaactcat tttagtgatg ctaaagttga aggagatgaa 
+           ttgaaagttt caaaagtcat tttagtgatg ctaaagttga aggtaatgaa 
+           ttgaaagttt taaaagtcat tttagtgatg ctaaagttga aggtaatgaa 
            ttgaaagttt taaaagtcat tttagcgacg ctaaagttga aggtaatgaa 
            ttgaaagttt taaaagtcat tttagcgacg ctaaagttga aggtaatgaa 
            ttgaaagttt taaaagtcat tttagtgatg ctaaaattga aggtaatgaa 
@@ -307,12 +313,13 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            ttgaaagttt taaaagtcat tttagtgatg ctaaagttga aggtaatgaa 
            ttgaaagttt taaaagtcat tttagtgatg ctaaagttga aggtaatgaa 
            ttgaaagttt taaaagtcat tttagtgatg ctaaagttga aggtaatgaa 
-           ttgaaagttt taaaagtcat tttagtgatg ctaaagttga aggtaatgaa 
            ttgaaagttt taaaagtcat tttagtgatg ctaaaattga aggtaatgaa 
            ttgaaagttt taaaagtcat tttggtgatg ctaaagttga aggagatgaa 
            ttgaaagttt taaaagtcat tttagtgatg ctaaagttga aggagatgaa 
            ttgaaagttt taaaagtcat tttagtgatg ctaaagttga aggtaatgaa 
            ttgaaagttt taaaagtcat tttagtgatg ctaaagttga aggtaatgaa 
+           ttgaaagttt taaaactcat tttagtgatg ctaaagttga aggagatgaa 
+           ttgaaagttt taaaactcat tttagtgatg ctaaagttga aggagatgaa 
            ttgaaagttt taaaactcat tttagtgatg ctaaagttga aggagatgaa 
            ttgaaagttt taaaactcat tttagtgatg ctaaagttga aggagatgaa 
            ttgaaagttt taaaactcat tttagtgatg ctaaagttga aggagatgaa 
@@ -329,8 +336,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            ttgaaagttt taaaagtcat tttagtgatg ctacacttga aggcagtgaa 
 
            gtttatctat gaaaaagtta atcttgtttt atttacctga ttgtaatgtt 
-           ttatatctat gaaaaagtta atcttattct atttacctga ttgtaatgtt 
-           ttatatctat gaaaaagtta atcttattct atttacctga ttgtaatgtt 
+           gtttatctat gaaaaagtta atcttgtttt atttacctga ttgtaatgtt 
+           gtttatctat gaaaaagtta atcttgtttt atttacctga ttgtaatgtt 
            gtttatctat gaaaaagtta atcttattct atttacctga ttgtaatgtt 
            gtttatctat gaaaaagtta atcttattct atttacctga ttgtaatgtt 
            gtttatctat gaaaaagtta atctcgtttt atttacctga ttgtaatgtt 
@@ -355,11 +362,12 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            gtttatctat gaaaaagtta atcttgtttt atttacctga ttgtaatgtt 
            gtttatctat gaaaaagtta atcttattct atttacctga ttgtaatgtt 
            gtttatctat gaaaaagtta atcttgtttt atttacctga ttgtaatgtt 
-           gtttatctat gaaaaagtta atcttgtttt atttacctga ttgtaatgtt 
            gtttatctat gaaaaagtta atactatttt atttacctga ttgtaatgtt 
            gtttatctat gaaaaagtta atactattct atttacctga ttgtaatgtc 
            gtttatctat gaaaaagtta atcttgtttt atttacctga ttgtaatgtt 
            gtttatctat gaaaaagtta atcttgtttt atttacctga ttgcaatgtt 
+           ttatatctat gaaaaagtta atcttattct atttacctga ttgtaatgtt 
+           ttatatctat gaaaaagtta atcttattct atttacctga ttgtaatgtt 
            gtatatctat gaaaaagtta atactatttt atttacctga ttgtaatgtt 
            gtatatctat gaaaaagtta atactatttt atttacctga ttgtaatgtt 
            gtatatctat gaaaaagtta atactatttt atttacctga ttgtaatgtt 
@@ -376,8 +384,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            atttatctat gaaaaagtaa atcttatttt atttacctga ttgtaatgct 
 
            agtaaacttt ttgaagaaag gcttcataaa gctcttgctc ttcctgagtt 
-           agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttactgagtt 
-           agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttactgagtt 
+           agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc tacctgagtt 
+           agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttcctgagtt 
            agtaaacttt ttgaagaaag gcttcataaa gctcttgctc tacctgagtt 
            agtaaacttt ttgaagaaag gcttcataaa gctcttgctc tacctgagtt 
            agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc tacctgagtt 
@@ -401,12 +409,13 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            agtaaacttt ttgaagaaag gcttcataaa gctcttgctc ttcctgagtt 
            agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttcctgagtt 
            agtaaacttt ttgaagaaag gcttcataaa gctcttgctc tacctgagtt 
-           agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttcctgagtt 
            agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc tacctgagtt 
            agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttcctgagtt 
            agtaaacttt ttgaagaaag gcctcacaaa gctcttgctc ttactgagtt 
            agtaaacttt ttgaagaaag gcttcataaa gctcttgctc ttcctgagtt 
            agtaaacttt ttgaagaaag gcttcataaa gctcttgcac ttactgagtt 
+           agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttactgagtt 
+           agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttactgagtt 
            agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttactgagtt 
            agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttactgagtt 
            agtaaacttt ttgaagaaag gcttcacaaa gctcttgctc ttactgagtt 
@@ -423,7 +432,7 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            agtaaacttt ttgaagaaag gcttcataaa gctcttgctc ttcctgagtt 
 
            tgccggtagg tttaatctta ttaggcataa tctatatact gatactggta 
-           tgccggtagg tttaatctta ttaggtataa tctatatact gatactggta 
+           tgccggtagg tttaatctta ttaggcataa tctatatact gatactggta 
            tgccggtagg tttaatctta ttaggtataa tctatatact gatactggta 
            tgccggtagg tttaatctta ttaggcataa tctatatact gatactggta 
            tgccggtagg tttaatctta ttaggcataa tctatatact gatactggta 
@@ -451,9 +460,10 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            tgccggtagg tttaatctta ttaggtataa tctatatact gatactggta 
            tgccggtagg tttaatctta ttaggtataa tctatatact gatactggta 
            tgccggtagg tttaatctta ttaggtataa tctatatact gatactggta 
-           tgccggtagg tttaatctta ttaggtataa tctatatact gatactggta 
            tgccggtagg tttaatctta ttaggcataa tctatatact gatactggta 
            tgccggtagg tttaatctta ttaggtacaa tctatatact gatactggta 
+           tgccggtagg tttaatctta ttaggtataa tctatatact gatactggta 
+           tgccggtagg tttaatctta ttaggtataa tctatatact gatactggta 
            tgccggtagg tttaatctta ttaggcataa tctatatact gataatggta 
            tgccggtagg tttaatctta ttaggcataa tctatatact gataatggta 
            tgccggtagg tttaatctta ttaggcataa tctatatact gataatggta 
@@ -470,7 +480,7 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            tgccgggaag gttaatctta ttaggcataa tctatatact gatact-gta 
 
            gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
-           gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
+           gacaagaagc gcgtagtatt ggtattagtg atgctcctgc tgcttacggt 
            gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
            gacaagaagc gcgtagtgtt ggtattagtg atgctcctac tgcttattgt 
            gacaagaagc gcgtagtgtt ggtattagtg atgctcctac tgcttattgt 
@@ -493,14 +503,15 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
            gacaagaagc gcgtagtgct ggtattagtg atgctcctgc tgcttactgt 
            gacaagaagc gcgtagtgtt ggtattagtg atgctcctac tgcttattgt 
-           gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
-           gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
            gacaagaagc gcgtagtatt ggtattagtg atgctcctac tgcttattgt 
+           gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
            gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttatcgt 
            gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
            gacaagaagc gcgtagtgtt ggtattagtg atgctcctac tgcttattgt 
            gacaagaagc gcgtagtgtt ggtattagtg atgctcctac tgcttactgt 
            gacaagaagc gcgtggagtt ggtgttaatg atgctcctgc tgcttactgt 
+           gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
+           gacaagaagc gcgtagtgct ggtattagtg atgctcctac tgcttattgt 
            gacaagaggc taggagtatt ggtgttaatg acgctcctac tgcttattgt 
            gacaagaggc taggagtatt ggtgttaatg acgctcctac tgcttattgt 
            gacaagaggc taggagtatt ggtgttaatg acgctcctac tgcttattgt 
@@ -517,8 +528,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            gacaagaagc gcgta-tgct -gtatta-tg atgctcctac tgcttattg- 
 
            aatggtgata ttctacgtgg tgtgcaaagc gattacacta ttagaaaata 
-           gatggtaata ttctacgtgg tgtgcaaagc gattacacta ttagaaaata 
-           gatggtaata ttctacgtgg tgtgcaaagc gattacacta ttagaaaata 
+           aatggttatg ttctacgtgg tttacaaagt gattacactt ttcgaaggta 
+           aatggtgata ttctacgtgg tgtgcaaagc gattacacta ttaggaagta 
            gatggtaata ttctacgtgg tgtgcaaagc gattacacta ttagaaaata 
            gatggtaata ttctacgtgg tgtgcaaagc gattacacta ttagaaaata 
            aatggtgata ttctacgtgg tgtgcaaagc gattacacta ttagaaagta 
@@ -540,14 +551,15 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            aatggtgata ttctacgtgg tgtgcaaagc gattacacta ttaggaaata 
            aatggtgata ttctacgtgg tgtgcaaagc gattacacta ttaggaaata 
            aatggtgata ttctacgtgg tgtgcaaagc gattacacta ttaggaagta 
-           aatggtgata ttctacgtgg tgtgcaaagc gattacacta ttaggaagta 
-           aatggtgata ttttacgtgg tgtgcaaagc gattacacta ttagaaaata 
            gatggtgata ttctacgtgg tgtgcaaagc gattacacta ttaggaggta 
+           aatggtgata ttttacgtgg tgtgcaaagc gattacacta ttagaaaata 
            aatggtgata ttttacgtgg tgtgcaaagc gattacacta ttaggaaata 
            aatggtgata ttttacgtgg tgtgcaaagc gattacacta ttagaaaata 
            gatggtaata ttctacgtgg tgtgcaaagc gattacacta ttaggaaata 
            aatggtgata ttctacgtgg tgtgcaaagc gattacacta ttaggaagta 
            aatggttata ttctacgtgg catacaaagt gattacactt ttcggaggta 
+           gatggtaata ttctacgtgg tgtgcaaagc gattacacta ttagaaaata 
+           gatggtaata ttctacgtgg tgtgcaaagc gattacacta ttagaaaata 
            aacgggtctg tgcttcgtgg tgtgcaaagt gattactcta ttaggcagta 
            aacgggtctg tgcttcgtgg tgtgcaaagt gattactcta ttaggaagta 
            aacgggtctg tgcttcgtgg tgtgcaaagt gattactcta ttaggaagta 
@@ -564,8 +576,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            -aatgtgata atttacgc-g tgtgca-agc gattacacta tta-caaata 
 
            tcttcgcaag ctgctaggat agtcatagat atgattcttt tgccctacat 
-           tcttcgcaag ctgttaggac agtcatagat ataattcttt tgccctacat 
-           tcttcgcaag ctgttaggac agtcatagat ataattcttt tgccctacat 
+           tcttcgcaag ctgttagaat agtcatagat ataattcttt tgccctacat 
+           tcttcgcaag ctgttaggat agtcatagat atgattcttt tgccctacat 
            tcttcgcaag ttgttaggac agtcatagat acagttcttt tgccttacat 
            tcttcgcaag ttgttaggac agtcatagat acagttcttt tgccttacat 
            tcttcgcaag ctgctaggat agtcatagat atgattcttt tgccctacat 
@@ -587,14 +599,15 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            tcttcgcaag ttgttaggat agtcatagat acagttcttt tgccctacat 
            tcttcgcaag ttgttaggac agtcatagat acagttcttt tgccctacat 
            tcttcgcaag ctgctaggat agtcatagat atagttcttt tgccctacat 
-           tcttcgcaag ctgttaggat agtcatagat atgattcttt tgccctacat 
-           tcttcgcaag ctgctaggaa agtcatagat atgattcttt tgccctacat 
            tcttcgcaag ctgttagaat agtcatagat ataattcttt tgccctacat 
+           tcttcgcaag ctgctaggaa agtcatagat atgattcttt tgccctacat 
            tcttcgcaag ttgctaggaa agtcatagat atgattcttt tgccctacat 
            tcttcgcaag ctgctaggaa agtcatagat atgattcttt tgccctacat 
            tcttcgcaag ctgttaggac agtcatagat atgattcttt tgccctacat 
            tcttcgcaag ctgctaggat agtcatagat ataattcttt tgccctacat 
            tcttcgcaag ctgttagaat agtcatagac ctaattcttt tgccctacat 
+           tcttcgcaag ctgttaggac agtcatagat ataattcttt tgccctacat 
+           tcttcgcaag ctgttaggac agtcatagat ataattcttt tgccctacat 
            tcttaggagc atattagaac agtcatagat ctatttcttt tgccctacat 
            tcttaggagc atattagaac agtcatagat ctatttcttt tgccctacat 
            tcttaggagc atattagaac agtcatagat ctatttcttt tgccctacat 
@@ -611,8 +624,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            tcttcgc-ag ctgctaggaa ga--atacaa atgaatcttc tgcc---tac 
 
            tgaattttaa ttgttattgt gattaatcta tcacgatatg aatatcattc 
-           tgaattttaa ttgctattgt gattaatcta tcacgatatg attatcgttc 
-           tgaattttaa ttgctattgt gattaatcta tcacgatatg attatcgttc 
+           tgaattttaa ttatcattgt gattaatcta tcacgatatg aatatcattc 
+           tgaattttaa ttgtcattgt gattaatcta tcacgatatg aatatcattc 
            tgaattttaa ttatcattgt gattaatcta tcacgatatg aatatcattc 
            tgaattttaa ttatcattgt gattaatcta tcacgatatg aatatcattc 
            tgaattttaa ttgttattgt gattaatcta tcacgatatg aatatcattc 
@@ -636,12 +649,13 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            tgaattttaa ttgtcattgt gattaatcta tcacgatatg aatatcattc 
            tgaattttaa ttgtcattgt gattaatcta tcacgatatg aatatcattc 
            tgaattttaa ttgttattgt gattaatcta tcacgatatg attatcattc 
-           tgaattttaa ttgtcattgt gattaatcta tcacgatatg aatatcattc 
            tgaattttaa ttgttattgt gattaatcta tcacgatatg attatcattc 
            tgaattttaa ttgttattgt gattaatcta tcacaatatg attatcattc 
            tgaattttaa ttgttattgt gattaatcta tcacgatatg aatatcattc 
            tgaattttaa ttgtcattgt gattaatcta tcacgatatg aatatcattc 
            tgaattttaa ttgttattat gattaatcta -catgacatg aatatcattc 
+           tgaattttaa ttgctattgt gattaatcta tcacgatatg attatcgttc 
+           tgaattttaa ttgctattgt gattaatcta tcacgatatg attatcgttc 
            tgaattttaa tatttaatgt gattaatcta tcacgctttg attatcattc 
            tgaattttaa tatttaatgt gattaatcta tcacgctttg attatcattc 
            tgaattttaa tatttaatgt gattaatcta tcacgctttg attatcattc 
@@ -658,7 +672,7 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            ttgaatttaa ttgtta-tat gat--atcta tcacgaacga tacttcat-- 
 
            aatggggctt taaaatagct aattttataa attctcatta tattatacga 
-           aatggggctt taaaatagct aattttataa attctcatta tattatacga 
+           aatagggctt taaaatagct aattttataa attctcatta tattatacga 
            aatggggctt taaaatagct aattttataa attctcatta tattatacga 
            aatggggctt taaaatagct aattttataa attctcatta tattatacga 
            aatggggctt taaaatagct aattttataa attctcatta tattatacga 
@@ -681,14 +695,15 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            aatagggatt taaaatagct aattttataa attctcatta tattatacga 
            aatagggctt taaaatagct aattttataa attctcatta tattatacga 
            aatagggctt taaaatagct aattttataa attctcatta tattatacga 
-           aatggggctt taaaatagct aattttataa attctcatta tattatacga 
-           aatggggctt taaaatagct aattttataa attctcatta tattatacga 
            aatagggctt taaaatagct aattttataa attctcatta tattatacga 
+           aatggggctt taaaatagct aattttataa attctcatta tattatacga 
            aatggggctt taaaatagct aattttataa attctcatta tattatacga 
            aatggggctt taaaatagct aattttataa attctcatta tattatacga 
            aatagggttt taaaatagct aattttataa attctcatta tattatacga 
            aatggggctt taaaatagct aattttataa attctcatta tattatacga 
            aatggggctt taaaataact aattttataa attctcatta tattatacga 
+           aatggggctt taaaatagct aattttataa attctcatta tattatacga 
+           aatggggctt taaaatagct aattttataa attctcatta tattatacga 
            aatagggctt taaaataacc aattttataa attctcatta tattatataa 
            aatagggctt taaaataacc aattttataa attctcatta tattatataa 
            aatagggctt taaaataacc aattttataa attctcatta tattatataa 
@@ -705,8 +720,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            ---cgggggt t-aaatagta tattatattc tctttttcta caatatatgg 
 
            atactatggt taaaaaattt tatatgctga taaagataaa agtatgagag 
-           atactatggt taaaaaattt tatatgctga taaaaataaa agtatgagag 
-           atactatggt taaaaaattt tatatgctga taaaaataaa agtatgagag 
+           atactatggt taaaaaattt tatatgctga taaagataaa agtatgagag 
+           atactatggt taaaaaattt tatatgctga taaagataaa agtatgagag 
            atactatggt taaaaaattt tatatgctga taaagataaa agtatgcgag 
            atactatggt taaaaaattt tatatgctga taaagataaa agtatgcgag 
            atactatggt taaaaaattt tatatgctga taaagataaa agtatgagag 
@@ -734,8 +749,9 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            atactatggt taaaaaattt tatatgctga taaagataaa agtatgagag 
            atactatggt taaaaaattt tatatgctga taaagataaa agtatgagag 
            atactatggt taaaaaattt tatatgctga taaagataaa agtatgagag 
-           atactatggt taaaaaattt tatatgctga taaagataaa agtatgagag 
            atactatggt taaaaaattt tatatgctga taaagataaa aatatgagag 
+           atactatggt taaaaaattt tatatgctga taaaaataaa agtatgagag 
+           atactatggt taaaaaattt tatatgctga taaaaataaa agtatgagag 
            atattatggt taaaaaattt tatgtactga taaagataaa agtatgcgag 
            atattatggt taaaaaattt tatgtactga taaagataaa agtatgcgag 
            atattatggt taaaaaattt tatgtactga taaagataaa agtatgcgag 
@@ -752,8 +768,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            ---------- -tgaaatttt tttaagcgtg taaacatata actatgaaga 
 
            agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
-           agctattgat atattggact aaatgtaatt tgaatcttcc tgaccttatt 
-           agctattgat atattggact aaatgtaatt tgaatcttcc tgaccttatt 
+           agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
+           agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
            agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
            agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
            agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
@@ -782,7 +798,8 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
            agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
            agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
-           agctattgat atattggact aaatgtaatt taaatcttcc tgaccttatt 
+           agctattgat atattggact aaatgtaatt tgaatcttcc tgaccttatt 
+           agctattgat atattggact aaatgtaatt tgaatcttcc tgaccttatt 
            agctattgat attttggact aaatgtcaat tatatcttcc tgaccttatt 
            agctattgat attttggact aaatgtcaat tatatcttcc tgaccttatt 
            agctattgat attttggact aaatgtcaat tatatcttcc tgaccttatt 
@@ -798,6 +815,7 @@ _R_44      tataattgtg atggtaaaga tagatgttgt caacttatta ttaatagtgc
            agctaatatg atatttgacc acccgcaaag taagtcctcc cgcccttatt 
            ctatgttagt ttattggcat gtatgaaact cgactttatc tgaaattgca 
 
+           ctaa     
            ctaa     
            ctaa     
            ctaa     

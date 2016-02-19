@@ -98,7 +98,7 @@ Note: No sequences found in Sweden
 > 08028 Barcelona
 > Spain
 
-## Villagra lab
+## Villagra Lab
    * Dr. Nicolás Villagra
 
 > Lab. Patogénesis Molecular y Antimicrobianos
@@ -117,3 +117,23 @@ Note: No sequences found in Chile
 > Kasteelpark Arenberg 21 - box 2462, 
 > B-3001 Leuven, 
 > Belgium
+
+## Lukasz Dziewit Lab
+  * Lukasz Dziewit
+  * Przemek Decewicz
+
+> Department of Bacterial Genetics
+> Institute of Microbiology
+> University of Warsaw
+> Miecznikowa 1, 406A
+> 02-096, Warsaw, Poland
+
+## Gyu-Sung Cho Lab
+  * Gyu-Sung Cho
+
+> Max Rubner-Institut
+> Microbiology and Biotechnology
+> Hermann-Weigmann-Straße 1 24103 Kiel
+> Karlsruhe, Germany
+
+
