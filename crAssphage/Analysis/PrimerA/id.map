@@ -43,5 +43,11 @@
 42	Qimron_Qalqilyah_A_20151202 [name=Qimron lab primer A 20151202] [latitude=32.18] [longitude=34.97] [note=Collected in Qalqilyah] [country=Israel]
 43	Qimron_Ramallah_A_20151202 [name=Qimron lab primer A 20151202] [latitude=31.9] [longitude=35.19] [note=Collected in Ramallah] [country=Israel]
 44	Qimron_Salfit_A_20151202 [name=Qimron lab primer A 20151202] [latitude=32.08] [longitude=35.18] [note=Collected in Salfit] [country=Israel]
-45	Strain_primerA.20151215 [name=Strain APC Microbiome Institute primer A 20151215] [date=20151215] [latitude=51.8925] [longitude=-8.4964] [note=coordinates are APC location] [country=Ireland]
-46	crAssphage_A [name=crAssphage Primer A] [latitude=0.0] [longitude=0.0] [date=20140724] [country=crAssphage A]
+45	Santos_A1.20160225 [name=Santos Primer A1] [latitude=38.7348396] [longitude=-9.1863262] [address=Instituto Superior Tecnico, Laboratorio de Análises, Av. Rovisco Pais, 1049-001 Lisboa] [date=2016Feb25] [country=Portugal]
+46	10-Crass01-250216-12-10
+47	Santos_A2.20160225 [name=Santos Primer A2] [latitude=38.7348396] [longitude=-9.1863262] [address=Instituto Superior Tecnico, Laboratorio de Análises, Av. Rovisco Pais, 1049-001 Lisboa] [date=2016Feb25] [country=Portugal]
+48	Santos_A4.20160225 [name=Santos Primer A4] [latitude=38.7348396] [longitude=-9.1863262] [address=Instituto Superior Tecnico, Laboratorio de Análises, Av. Rovisco Pais, 1049-001 Lisboa] [date=2016Feb25] [country=Portugal]
+49	Santos_A5.20160225 [name=Santos Primer A5] [latitude=38.7348396] [longitude=-9.1863262] [address=Instituto Superior Tecnico, Laboratorio de Análises, Av. Rovisco Pais, 1049-001 Lisboa] [date=2016Feb25] [country=Portugal]
+50	Santos_A9.20160225 [name=Santos Primer A9] [latitude=38.7348396] [longitude=-9.1863262] [address=Instituto Superior Tecnico, Laboratorio de Análises, Av. Rovisco Pais, 1049-001 Lisboa] [date=2016Feb25] [country=Portugal]
+51	Strain_primerA.20151215 [name=Strain APC Microbiome Institute primer A 20151215] [date=20151215] [latitude=51.8925] [longitude=-8.4964] [note=coordinates are APC location] [country=Ireland]
+52	crAssphage_A [name=crAssphage Primer A] [latitude=0.0] [longitude=0.0] [date=20140724] [country=crAssphage A]

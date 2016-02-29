@@ -136,14 +136,4 @@ Note: No sequences found in Chile
 > Hermann-Weigmann-Straße 1 24103 Kiel
 > Karlsruhe, Germany
 
-## Ricardo Santos Lab
-  * Ricardo Santos
-  * Silvia Monteiro
-
-> Instituto Superior Technico
-> Laboratorio de Análises
-> Av. Rovisco Pais
-> 1049-001 Lisboa
-> PORTUGAL
-
 
