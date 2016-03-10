@@ -136,4 +136,11 @@ Note: No sequences found in Chile
 > Hermann-Weigmann-Straße 1 24103 Kiel
 > Karlsruhe, Germany
 
+## Botella Lab
+  * Josefa Anton Botella
+
+> Department of Physiology, Genetics, and Microbiology
+> University of Alicante
+> 03080 Alicante, Spain
+
 
