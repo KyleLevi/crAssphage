@@ -143,4 +143,11 @@ Note: No sequences found in Chile
 > University of Alicante
 > 03080 Alicante, Spain
 
+## Fineran Lab
+  * Peter Fineran
+
+> Department of Microbiology and Immunology
+> University of Otago
+> 362 Leith St, North Dunedin
+> Dunedin 9016, New Zealand
 
