@@ -151,3 +151,13 @@ Note: No sequences found in Chile
 > 362 Leith St, North Dunedin
 > Dunedin 9016, New Zealand
 
+## Quan Lab
+  * Zhe-Xue Quan
+  * and students?
+
+> School of Life Sciences
+> Fudan University
+> 220 Handan Rd, WuJiaoChang, Yangpu, 
+> Shanghai China, 200433
+
+
