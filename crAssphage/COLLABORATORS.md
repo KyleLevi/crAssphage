@@ -160,4 +160,18 @@ Note: No sequences found in Chile
 > 220 Handan Rd, WuJiaoChang, Yangpu, 
 > Shanghai China, 200433
 
+## National Scientific and Technical Research Council
+  * Raul Raya
+
+> Conicet
+> C1033AAJ, Av Rivadavia 1917
+> CABA, Argentina
+
+## Corporacion Corpogen
+  * Maria Mercedes Zambrano
+
+>Carrera 5 No 66A-34
+>110231
+>Bogotá, Colombia
+
 
