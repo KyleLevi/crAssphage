@@ -36,6 +36,8 @@ This project would not be successful without our great global collaborators. Thi
 > The Netherlands
 
 ## Cinek Lab
+   * Ondrej Cinek
+   * Karla Mazánková
 
 > Department of Pediatrics,
 > Charles University in Prague,
@@ -153,7 +155,7 @@ Note: No sequences found in Chile
 
 ## Quan Lab
   * Zhe-Xue Quan
-  * and students?
+  * and students
 
 > School of Life Sciences
 > Fudan University
@@ -174,4 +176,13 @@ Note: No sequences found in Chile
 >110231
 >Bogotá, Colombia
 
+## Diaz Muñoz Lab
+  * Samuel L. Díaz Muñoz
+  * Kristen Gulino
+  * Alan Twaddle
+  * Elodie Ghedin
+
+>Center for Genomics and Systems Biology, Department of Biology, New York University
+>12 Waverly Pl, New Yord
+>NY 10003
 
