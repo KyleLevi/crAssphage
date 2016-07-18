@@ -183,7 +183,7 @@ Note: No sequences found in Chile
   * Elodie Ghedin
 
 >Center for Genomics and Systems Biology, Department of Biology, New York University
->12 Waverly Pl, New Yord
+>12 Waverly Pl, New York
 >NY 10003
 
 ## Santos Lab
