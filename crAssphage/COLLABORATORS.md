@@ -177,6 +177,14 @@ Note: No sequences found in Chile
 >110231
 >Bogotá, Colombia
 
+## University of Chicago
+  * A. Murat Eren (Meren)
+
+> Knapp Center for Biomedical Discovery
+> 900 E. 57th St.
+> MB 9, RM 9118
+> Chicago, IL  60637 USA
+
 ## Diaz Muñoz Lab
   * Samuel L. Díaz Muñoz
   * Kristen Gulino
@@ -210,6 +218,14 @@ Note: No sequences found in Chile
 >3)  Moscow Institute of Physics and Technology, 
 >Institutskiy per. 9, Dolgoprudny, 
 >Moscow Region 141700, Russia
+
+## Nigro Lab
+  * Olivia D. Nigro
+
+>Department of Oceanography
+>School of Ocean & Earth Science and Technology
+>University of Hawai‘i at Mānoa
+>1950 East-West Road, C-MORE Hale
 
 
 
