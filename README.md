@@ -1,9 +1,9 @@
-# SRA_PhageSearch
+# SRA_PhageSearch 
+##--Work in Progress--  Everything should be cleaned, documented and uploaded by 3/20
 Small programs used to search Sequence Read Archive metagenomes for phages (Or anything really - but we did phages)
 
-# --Work in Progress--  Everything should be cleaned, documented and uploaded by 3/20
 
-# samstats.py
+## samstats.py
 *Requires pysam
 Analyze a single samfile and append some statistics to a file (Feel free to change the output)
 USAGE:  python samstats.py  -i <samfile>
