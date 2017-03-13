@@ -45,7 +45,7 @@ seqs.aln: align
 align: mafft
 
 mafft_fa: seqs.fa renum
-	mafft --adjustdirectionaccurately --localpair  --maxiterate 16 --reorder seqs.renum.fa > seqs.clustal
+	mafft --adjustdirectionaccurately --localpair  --maxiterate 16 --reorder seqs.renum.fa > seqs.faln
 
 mafft: seqs.fa renum
 	mafft --adjustdirectionaccurately --localpair  --maxiterate 16 --phylipout --reorder seqs.renum.fa > seqs.aln
