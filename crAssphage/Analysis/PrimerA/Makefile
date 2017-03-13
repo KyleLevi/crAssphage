@@ -62,4 +62,4 @@ seqs.fa:
 	cat ../../Sequences/PrimerA/*.fasta > seqs.fa
 
 clean:
-	rm -f *.aln *.dnd seqs.fa seqs.renum.fa id.map seqs.dnadist  seqs.neighbor  seqs.tree seqs.aln.full PrimerA.png
+	rm -f *.aln *.dnd seqs.fa seqs.renum.fa id.map seqs.dnadist  seqs.neighbor  seqs.tree seqs.aln.full PrimerA.png seqs.faln  seqs.named.tree
