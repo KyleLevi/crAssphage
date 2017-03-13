@@ -9,7 +9,8 @@ help:
 	@echo "	   seqs.fa   assemble the DNA sequences into a single fasta file"
 	@echo "    renum     renumber the fasta file and create a separate id.map"
 	@echo "    clustalw  run a clustalw alignment on the sequences"
-	@echo "    mafft     run a mafft alignment on the sequences"
+	@echo "    mafft     run a mafft alignment on the sequences (this makes a phylip format output used for building the trees)"
+	@echo "    mafft_fa  run a mafft alignment but write the alignment in fasta format"
 	@echo "    neighbor_tree   create a neighbor joining tree"
 	@echo ""
 	@echo "You probably want to start with country_tree, as it will create the sequences, build an alignment, rename the sequences, etc etc"
@@ -42,6 +43,9 @@ trim_seqs: seqs.aln
 seqs.aln: align
 
 align: mafft
+
+mafft_fa: seqs.fa renum
+	mafft --adjustdirectionaccurately --localpair  --maxiterate 16 --reorder seqs.renum.fa > seqs.clustal
 
 mafft: seqs.fa renum
 	mafft --adjustdirectionaccurately --localpair  --maxiterate 16 --phylipout --reorder seqs.renum.fa > seqs.aln
