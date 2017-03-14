@@ -16,10 +16,10 @@ help:
 	@echo "You probably want to start with country_tree, as it will create the sequences, build an alignment, rename the sequences, etc etc"
 
 country_tree: neighbor_tree
-	python ../bin/rename_trees.py -t seqs.neighbor -i id.map -n country  > seqs.tree
+	python ../bin/rename_trees.py -t seqs.nonneg.tree -i id.map -n country  > seqs.tree
 
 tree: neighbor_tree
-	python ../bin/rename_trees.py -t seqs.neighbor -i id.map > seqs.tree
+	python ../bin/rename_trees.py -t seqs.nonneg.tree -i id.map > seqs.named.tree
 
 neighbor_tree: trim_seqs
 	cp seqs.aln infile
@@ -30,6 +30,7 @@ neighbor_tree: trim_seqs
 	mv outtree seqs.neighbor
 	mv infile seqs.dnadist
 	rm -f outfile
+	python ../bin/negative_branch_lengths.py -t seqs.neighbor > seqs.nonneg.tree
 
 
 blastn: seqs.fa
@@ -62,4 +63,4 @@ seqs.fa:
 	cat ../../Sequences/PrimerC/*.fasta > seqs.fa
 
 clean:
-	rm -f *.aln *.dnd seqs.fa seqs.renum.fa id.map seqs.dnadist  seqs.neighbor  seqs.tree seqs.aln.full PrimerC.png seqs.faln  seqs.named.tree
+	rm -f *.aln *.dnd seqs.fa seqs.renum.fa id.map seqs.dnadist  seqs.neighbor  seqs.tree seqs.aln.full PrimerC.png seqs.faln  seqs.named.tree seqs.nonneg.tree
