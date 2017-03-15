@@ -44,7 +44,6 @@ aagtttggtaattatgatatggttaatcaaggttggaaatataatattcatgctgaa
 aatggtcaagttgtttctccacttaaagacgctttaattagtattcttgatggtgataga
 tttgacgaagaatttattggtcatttatatgaacttgctgttaaagaagaagttacacaa
 gaagaacttgttaatctatttaaagaatttaacactaaatanccgtatnngnn
-                                                                     
 >Qimron_Ramallah_C_20151202 [name=Qimron lab primer C 20151202] [date=20151202] [latitude=31.9] [longitude=35.19] [note=Collected in Ramallah] [country=Israel]
 cnnngnnaantnatgtaactgatgnanntgatactagantctctccatcctc
 tacggggnagtatagcggagcgaagcgaagcggttcctagtgagcctactaatactgaa
@@ -67,8 +66,6 @@ atcaaggttggaaatataatattcatgctgaaaatggtcaagttatttctccacttaaag
 acgctttaattagtattcttgatggtgatagatttgacgaagaatttattggtcattta
 tatgaacttgctgttaaagaagaagttacacaagaagaacttgttaatctatttaaagaa
 tttaaactaaatanccttanaantnnn
-
-                                           
 >Qimron_Salfit_C_20151202 [name=Qimron lab primer C 20151202] [date=20151202] [latitude=32.08] [longitude=35.18] [note=Collected in Salfit] [country=Israel]
 cnnnnngnnttccnnaactgatggcnatgatactagattctctccatcctctacggggag
 tatagcggagcgaagcgaagcggttcctagtgagacctactaatactgaacaacc
@@ -91,4 +88,3 @@ tggttaatcaaggttggaaatataatattcatgctgaaaatggtcaagttgtttctccac
 ttaaagacgctttaattagtattcttgatggtgatagatttgacgaagaatttattggtc
 atttatatgaacttgctgttaaagaagaagttacacaagaagaacttgttaatctattta
 aagaatttaatgctnncatttncntcnnantann
-                                                  
