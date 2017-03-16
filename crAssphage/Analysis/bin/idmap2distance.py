@@ -69,6 +69,7 @@ def latlon2distance(lat1, long1, lat2, long2, miles=False):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Make a (geographic) distance matrix from the id.map file')
     parser.add_argument('-i', help='id.map output file from the renumbering code (default: id.map)', default='id.map')
+    parser.add_argument('-o', help='output file', required=True)
     args = parser.parse_args()
 
     loc = {}
@@ -85,17 +86,19 @@ if __name__ == "__main__":
 
     names = list(loc.keys())
     names.sort()
-    sys.stdout.write("\t" + "\t".join(names))
-    sys.stdout.write("\n")
-    for i in range(len(names)):
-        fn = names[i]
-        sys.stdout.write(fn)
-        for j in range(len(loc)):
-            tn = names[j]
-            if fn == tn:
-                sys.stdout.write("\t0")
-                continue
-            dist = latlon2distance(loc[fn][0], loc[fn][1], loc[tn][0], loc[tn][1])
-            sys.stdout.write("\t{}".format(dist))
-        sys.stdout.write("\n")
+
+    with open(args.o, 'w') as out:
+        out.write("sampleid\t" + "\t".join(names))
+        out.write("\n")
+        for i in range(len(names)):
+            fn = names[i]
+            out.write(fn)
+            for j in range(len(loc)):
+                tn = names[j]
+                if fn == tn:
+                    out.write("\t0")
+                    continue
+                dist = latlon2distance(loc[fn][0], loc[fn][1], loc[tn][0], loc[tn][1])
+                out.write("\t{}".format(dist))
+            out.write("\n")
 
