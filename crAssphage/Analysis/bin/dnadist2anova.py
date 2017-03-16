@@ -27,8 +27,8 @@ __author__ = 'Rob Edwards'
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Convert seqs.dnadist and seqs.')
-    parser.add_argument('-d', help='seqs.dnadist file', required=True)
-    parser.add_argument('-i', help='id.map file', required=True)
+    parser.add_argument('-d', help='seqs.dnadist file (default = seqs.dnadist)', default='seqs.dnadist')
+    parser.add_argument('-i', help='id.map file (default=id.map)', default='id.map')
     parser.add_argument('-o', help='output file', required=True)
     args = parser.parse_args()
 
