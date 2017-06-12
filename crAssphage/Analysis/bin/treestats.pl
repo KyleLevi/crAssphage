@@ -1,5 +1,34 @@
 #!/usr/bin/perl -w
 use strict;
+use Data::Dumper;
+
+=pod
+
+Usage: perl treestats.pl Analysis/PrimerA/seqs.neighbor Analysis/PrimerA/id.map 10000 name longitude country
+
+The output for me is:
+
+perl treestats.pl Analysis/PrimerA/seqs.neighbor Analysis/PrimerA/id.map 10000 name longitude country
+ # metadata       stat    pvalue  permutations
+ # country 17      0       10000
+ # longitude       8       0.0001  10000
+ # name    2       0.0048  10000
+
+I needed to change two additional things in the metadata file Analysis/PrimerA/id.map:
+- The metadata fields other than "name", "longitude", and "country" need to be completed in all lines
+
+What the script does is it takes the tree, and scores how well the indicated phenotype (e.g. "country") clusters on the branches. The statistic is the number of 
+branching partitions where all leaves have an identical value for the given metadata field - this value is in the second column of the output (e.g. 17 branches
+exist in the tree where all leaves are from the same country).
+
+Then it shuffles the labels of the tree N times (in this case N=10000), each time re-calculates the clustering score, and outputs the fraction of times that
+the score in the randomized tree is equal or higher than the score in the real tree (e.g. 48 times for the "name" field). This fraction is equal to the P-value
+that the clustering is significant - so all three metadata fields "name", "longitude", and "country" are significantly clustered in the tree.
+
+The good thing about this approach is that it retains the shape of the tree (branch order etc) which may be important for the statistics.
+
+=cut
+
 
 my $usage = "Usage:\t$0 treefile.ph metadata_file Pvalue_permutations metadata1 metadata2 ...\n";
 my $nrand = 0;
@@ -13,6 +42,8 @@ my %metadata_todo = ();
 for (my $i = 3; $i < scalar @ARGV; ++$i) {
 	++$metadata_todo{$ARGV[$i]}; }
 
+sub shuffle (\@);
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #	READ BRACKETNOTATION FROM TREEFILE
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -20,6 +51,7 @@ my $bracketnotation = "";
 open (IN, "<$ARGV[0]") or die "Can't open file $ARGV[0]: $!\n";
 while (my $line = <IN>) {
 	chomp ($line);
+	$line =~ s/_R_//g; # this removes the notation from mafft that the reverse complement was used
 	$bracketnotation .= $line; }
 close (IN);
 $bracketnotation =~ s/\s+/ /g;
@@ -42,6 +74,7 @@ for (my $position_rightbracket = 0; $position_rightbracket < $bracketnotation_si
 					last BACKTRACE; } } } } }
 foreach my $position_rightbracket (sort keys %partition) {
 	$partition{$position_rightbracket} = substr ($bracketnotation, $partition{$position_rightbracket}, $position_rightbracket - $partition{$position_rightbracket} + 1); }
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #	READ METADATA FROM FILE
@@ -110,14 +143,19 @@ for (my $shuf = 0; $shuf <= $nrand; ++$shuf) {
 			my %rb_values = ();
 			my $n = 0;
 			foreach my $sp (keys %{$species_in_clades{$rb}}) {
+				if (!defined $metadata{$species{$sp}}{$md}) {
+					die "No metadata $md defined for species $sp";
+				}
 				++$rb_values{$metadata{$species{$sp}}{$md}};
 				++$n; }
 			# count if this is a perfect partition
 			my @rb_values_sorted = sort { $rb_values{$a} <=> $rb_values{$b}; } keys %rb_values;
 			if ($rb_values{$rb_values_sorted[-1]} == $n) {
 				++$scores{$md}[$shuf]; } } }
+
 	# after first calculating the values for the unshuffled tree, shuffle the tree
 	@species_list = shuffle (@species_list);
+
 	my $pos = 0;
 	foreach my $sp (keys %species) {
 		$species{$sp} = $species_list[$pos];
@@ -135,11 +173,12 @@ foreach my $md (keys %scores) {
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #       SUBROUTINES
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-sub shuffle () {
-	for (my $i = scalar @_ - 1; $i > 0; --$i) {
+sub shuffle (\@) {
+	my @ar = @{$_[0]};
+	for (my $i = scalar @ar - 1; $i > 0; --$i) {
 		my $r = int (rand ($i));
-		my $t = $_[$r];
-		$_[$r] = $_[$i];
-		$_[$i] = $t; }
-	return (@_); }
+		my $t = $ar[$r];
+		$ar[$r] = $ar[$i];
+		$ar[$i] = $t; }
+	return (@ar); }
 
